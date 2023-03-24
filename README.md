@@ -91,9 +91,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 <details>
   <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
 
-  1. Clone o repositório
+  1. ] o repositório
 
-  - `git clone https://github.com/tryber/sd-025-a-project-trybers-and-dragons.git`.
+  - `git clone git@github.com:tryber/sd-025-a-project-trybers-and-dragons.git`.
   - Entre na pasta do repositório que você acabou de clonar:
     - `cd sd-025-a-project-trybers-and-dragons`
 
